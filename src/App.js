@@ -1,8 +1,15 @@
+import Review from "./components/Review"
+import "./App.css";
+
 function App() {
   return (
-    <div>
-      <h1>React App</h1>
-    </div>
+    <main className="container">
+      <div className="title">
+        <h2>Reviews</h2>
+        <div className="underline"></div>
+      </div>
+      <Review/>
+    </main>
   )
 }
 
