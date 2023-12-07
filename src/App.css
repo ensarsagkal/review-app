@@ -1,9 +1,9 @@
 :root{
 
-    --purple:purple;
-    --darkblue :rgb(9, 9, 82);
-    --bgcolor:rgb(229, 219, 238);
-    --infoColor :rgb(42, 42, 121);
+    --purple:rgb(128, 117, 0);
+    --darkblue :rgb(4, 4, 68);
+    --bgcolor:rgb(61, 6, 109);
+    --infoColor :rgb(33, 33, 72);
 }
 
 
